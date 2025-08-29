@@ -1,4 +1,4 @@
-# Alex Strelnikov's First CS 193
+# Alex Strelnikov's First CS 193 Homework
 
 ## My Favorite things in cs
 
